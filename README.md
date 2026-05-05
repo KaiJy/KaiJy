@@ -1,16 +1,16 @@
-![top languages](./generate-stats/image/image.svg)
+<div align="center">
 
-<!--
-**KaiJy/KaiJy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# KaiJy
 
-Here are some ideas to get you started:
+自己紹介や気になるリンクは、この段落を好きな文に書き換えればプロフィールにそのまま出ます。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+[![使用言語の割合（公開リポジトリ全体）](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiJy&layout=compact&locale=ja&langs_count=8&hide_border=true)](https://github.com/KaiJy?tab=repositories)
+
+</div>
+
+---
+
+*言語ランキングは、このリポジトリではなく公開リポジトリ全体について GitHub が認識している言語に基づきます。*  
+*[github-readme-stats](https://github.com/anuraghazra/github-readme-stats) で表示しています。*
